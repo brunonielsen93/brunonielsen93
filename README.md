@@ -14,7 +14,7 @@
 - 💬 Ask me about any puzzles kkk ...
 - 💬 Me pergunte sobre algum enígma kkk ...
 - 📫 How to reach me: ... bruno.nielsen.1993@gmail.com
-- 😄 Pronouns: ... Kenpachi ^^
+- 😄 surname: ... Kenpachi ^^
 
 <br><br>
 
