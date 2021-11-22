@@ -51,5 +51,5 @@
 <a href="https://www.instagram.com/bruno_nielsen/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-brunonielsen93-05122A?style=flat&logo=instagram" alt="instagram"/>
   
-  ! Snake animation (https://github.com/brunonielsen93/brunonielsen93/blob/output/github-contribution-grid-snake.svg)
+  ! [Snake animation] (https://github.com/brunonielsen93/brunonielsen93/blob/output/github-contribution-grid-snake.svg)
 
